@@ -1,1 +1,1 @@
-# Ransomware Mechanism
+# Ransomware Mechanics
